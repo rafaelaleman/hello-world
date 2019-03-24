@@ -1,0 +1,3 @@
+select *
+from cx_driver
+where date = trunc(sysdate)
