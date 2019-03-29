@@ -34,16 +34,6 @@ print("\n using classes")
 p1 = Person("Rafael", "06/19/1976")
 print(p1.GetName())
 
-# using lists
-a = []
-
-a.append("rafael")
-a.append("maria")
-a.append("miguel")
-a.append("gabriel")
-
-print(a)
-
 # using dictionaries
 
 print("\n using dictionaries:")
