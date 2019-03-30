@@ -3,24 +3,24 @@
 print("\n\n\nusing lists")
 
 # declare the list
-a = []
+myList = []
 
-# appending to a list
-a.append("rafael")
-a.append("maria")
-a.append("miguel")
-a.append("gabriel")
+# appending to myList list
+myList.append("rafael")
+myList.append("maria")
+myList.append("miguel")
+myList.append("gabriel")
 
 # printing the list
-print(a)
+print(myList)
 
 # printing one element of the list
-print(a[0])
+print(myList[0])
 
-for element in a:
+for element in myList:
     print(element)
 
-# adding different types to a list
+# adding different types to myList list
 b = []
 b.append("rafael")
 b.append(1)
