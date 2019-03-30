@@ -1,5 +1,7 @@
 # using lists
 
+print("\n\n\nusing lists")
+
 # declare the list
 a = []
 
