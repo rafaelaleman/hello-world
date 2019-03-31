@@ -1,3 +1,0 @@
-select *
-from cx_route r
-where t.date = trunc(sysdate);

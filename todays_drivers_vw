@@ -1,4 +1,0 @@
-select *
-from cx_driver
-where date = trunc(sysdate)
-and drvc_cd = 'WIL01'
